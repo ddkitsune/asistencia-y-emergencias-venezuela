@@ -1,0 +1,6 @@
+{
+  "name": "Asistencia y Emergencias Venezuela",
+  "description": "Plataforma de coordinación de ayuda humanitaria, reporte de incidentes y logística en tiempo real para situaciones de crisis en Venezuela.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
